@@ -1,1 +1,1 @@
-# DOM_Project
+# JS_Project
